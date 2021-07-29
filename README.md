@@ -229,7 +229,7 @@
     </p>
     <hr />
     <h1>📚 Education</h1>
-    <h1>The Ohio State University</h1>
+    <h2>The Ohio State University</h1>
     <h3>
       <strong
         >Bachelor&#x27;s Degree in Computer Science &amp; Engineering
@@ -240,6 +240,7 @@
       <em>2019 - Present</em>
       | Columbus, Ohio
     </p>
+    <hr />
     <p>
       &nbsp;<img
         align="center"
