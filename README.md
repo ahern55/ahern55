@@ -227,7 +227,6 @@
         />
       </a>
     </p>
-
     <hr />
     <h1>📚 Education</h1>
     <h1>The Ohio State University</h1>
