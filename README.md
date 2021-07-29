@@ -1,5 +1,4 @@
 <body>
-  <article id="9e385a99-d7be-40ee-9d30-e7bf74abbfa1" class="page sans">
     <header style="height: 45%; overflow: hidden">
       <img src="test.jpg" style="object-position: center 50%; width: 100%" />
       <h1 class="page-title">Hi 👋 I&#x27;m Jason Ahern</h1>
@@ -33,5 +32,4 @@
       </p>
       <p id="7206c69c-beed-4f9c-a002-7563953a9d14" class="">Columbus, Ohio</p>
     </div>
-  </article>
 </body>
