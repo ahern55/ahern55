@@ -1,8 +1,3 @@
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-  <title>Hi 👋 I&#x27;m Jason Ahern</title>
-</head>
-
 <body>
   <article id="9e385a99-d7be-40ee-9d30-e7bf74abbfa1" class="page sans">
     <header style="height: 45%; overflow: hidden">
