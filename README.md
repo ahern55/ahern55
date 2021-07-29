@@ -240,5 +240,12 @@
       <em>2019 - Present</em>
       | Columbus, Ohio
     </p>
+    <p>
+      &nbsp;<img
+        align="center"
+        src="https://github-readme-stats.vercel.app/api?username=ahern55&show_icons=true&locale=en"
+        alt="ahern55"
+      />
+    </p>
   </div>
 </body>
