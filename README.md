@@ -58,7 +58,7 @@
             <p>
                 <a href="https://www.python.org" target="blank">
                     <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+                    src="Logos/Python.png"
                     alt="python"
                     width="40"
                     height="40"
@@ -66,23 +66,23 @@
                 </a>
                 <a href="https://www.cprogramming.com/" target="blank">
                     <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+                    src="logos/C.png"
                     alt="c"
                     width="40"
                     height="40"
                     />
                 </a>
-                <a href="https://www.w3schools.com/cpp/" target="blank">
+                <a href="https://docs.microsoft.com/en-us/cpp/cpp/?view=msvc-160" target="blank">
                     <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+                    src="Logos/cpp.png"
                     alt="cplusplus"
                     width="40"
                     height="40"
                     />
                 </a>
-                <a href="https://www.w3schools.com/cs/" target="blank">
+                <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="blank">
                     <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
+                    src="Logos/csharp.png"
                     alt="csharp"
                     width="40"
                     height="40"
@@ -90,7 +90,7 @@
                 </a>
                 <a href="https://www.java.com" target="blank">
                     <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+                    src="Logos/java.png"
                     alt="java"
                     width="40"
                     height="40"
@@ -126,7 +126,7 @@
                 />
             </a>
         </p>
-        <a href="https://www.w3.org/html/" target="blank">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="blank">
             <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
             alt="html5"
@@ -134,7 +134,7 @@
             height="40"
             />
         </a>
-        <a href="https://www.w3schools.com/css/" target="blank">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="blank">
             <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
             alt="css3"
