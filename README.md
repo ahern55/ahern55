@@ -250,6 +250,7 @@
         | Columbus, Ohio
     </p>
     <hr />
+    <h1>📊 Some Statistics</h1>
     <p>
         &nbsp;<img
         align="center"
