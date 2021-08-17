@@ -53,6 +53,14 @@
             /></a>
         </p>
         <hr />
+        <h1>💖 My Favorite Repositories</h1>
+        <div align="left">
+            <ul>
+                <li><a href="https://github.com/ahern55/ahern55.github.io">Personal Website</a></li>
+                <li><a href="https://github.com/ahern55/recipes">Your Recipes</a></li>
+            </ul>
+        </div>
+        <hr />
         <h1>👨🏻‍💻 Languages and Tools</h1>
         <div align="left">
             <p>
@@ -256,6 +264,5 @@
         alt="ahern55"
         />
     </p>
-
 </div>
 </body>
