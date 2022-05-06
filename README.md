@@ -7,7 +7,7 @@
         <blockquote>
             A computer science student from Ohio State.<br />
             Visit me at
-            <a href="http://jasonahern.com" target="blank">jasonahern.com</a>!
+            <a href="https://jasonahern.com" target="blank">jasonahern.com</a>!
         </blockquote>
         <h1>☎️ Connect with me!</h1>
         <p align="left">
